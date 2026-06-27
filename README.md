@@ -1,8 +1,5 @@
 # PhotoApp
 Modern Android Photo Editing Application built with Java, MVVM Architecture, Room Database, ML Kit Face Detection, and Material Design. 
-# PhotoApp
-
-A modern Android photo editing application developed using Java and MVVM architecture.
 
 ## Features
 
