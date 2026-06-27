@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="24dp"
+    android:gravity="center_vertical"
+    android:background="@android:color/white"
+    android:minWidth="200dp">
+
+    <ProgressBar
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:indeterminate="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saving image..."
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:layout_marginStart="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="badge_free">#4CAF50</color>
+    <color name="badge_new">#FF5722</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">12dp</dimen>
+    <dimen name="grid_spacing">8dp</dimen>
+    <dimen name="image_card_height">180dp</dimen>
+    <dimen name="section_padding">16dp</dimen>
+    <string name="app_name">Photo App</string>
+    <string name="badge_free">FREE</string>
+    <string name="badge_new">NEW</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="loading">Loading...</string>
+    <string name="nav_creations">Creations</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="no_creations">No Creations Found</string>
+    <string name="no_favourites">No Favourites Found</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_app">Rate App</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <style name="RoundedImageStyle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    <style name="Theme.PhotoApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#03DAC6</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#000000</item>
+        <item name="colorError">#B00020</item>
+    </style>
+    <style name="Theme.PhotoApp.Fullscreen" parent="Theme.PhotoApp">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

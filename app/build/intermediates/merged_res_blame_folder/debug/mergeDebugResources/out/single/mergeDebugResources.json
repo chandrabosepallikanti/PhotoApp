@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_fragment_favourites.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_item_template.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/item_template.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_creations.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_creations.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_fragment_creations.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/fragment_creations.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/anim_fade_out.xml.flat",
+        "source": "com.app.photoapp-main-6:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_camera.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_crop.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_crop.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.app.photoapp-main-6:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_item_saved_image.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/item_saved_image.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_share.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_splash_background.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_save.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_dialog_exit_bottom_sheet.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/dialog_exit_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_shield.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_document.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_document.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_favourite.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_favourite.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_dialog_saving_progress.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/dialog_saving_progress.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_result.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_dialog_privacy_policy.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/dialog_privacy_policy.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_bg_badge_free.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/bg_badge_free.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_star.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/anim_fade_in.xml.flat",
+        "source": "com.app.photoapp-main-6:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_splash.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_image_placeholder.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/anim_pulse.xml.flat",
+        "source": "com.app.photoapp-main-6:/anim/pulse.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/xml_file_paths.xml.flat",
+        "source": "com.app.photoapp-main-6:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/anim_slide_out_left.xml.flat",
+        "source": "com.app.photoapp-main-6:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_bg_badge.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/anim_slide_in_right.xml.flat",
+        "source": "com.app.photoapp-main-6:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_processing.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_processing.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_fragment_settings.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_progress_bar_drawable.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/progress_bar_drawable.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_gallery.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_activity_save.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/activity_save.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_settings.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/layout_fragment_home.xml.flat",
+        "source": "com.app.photoapp-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/drawable_ic_home.xml.flat",
+        "source": "com.app.photoapp-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.app.photoapp-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.app.photoapp-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,54 @@
+com.app.photoapp-pngs-0 C:\PhotoApp\app\build\generated\res\pngs\debug
+com.app.photoapp-resValues-1 C:\PhotoApp\app\build\generated\res\resValues\debug
+com.app.photoapp-packageDebugResources-2 C:\PhotoApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.app.photoapp-packageDebugResources-3 C:\PhotoApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.app.photoapp-debug-4 C:\PhotoApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.app.photoapp-debug-5 C:\PhotoApp\app\src\debug\res
+com.app.photoapp-main-6 C:\PhotoApp\app\src\main\res
+com.app.photoapp-drawerlayout-1.1.1-7 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\0086aadb5063700797b20218ca3ca986\transformed\drawerlayout-1.1.1\res
+com.app.photoapp-core-runtime-2.2.0-8 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\05d81f78abab29afd52b1fbc6849fdc7\transformed\core-runtime-2.2.0\res
+com.app.photoapp-jetified-customview-poolingcontainer-1.0.0-9 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\098b58f64b06e99d5f423f540fdc926e\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.app.photoapp-jetified-activity-1.8.2-10 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\0c207c7232f4f8a7f6e354c897957a82\transformed\jetified-activity-1.8.2\res
+com.app.photoapp-navigation-runtime-2.7.6-11 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\0dbe1519de662d1c178b1b5d4b04ef76\transformed\navigation-runtime-2.7.6\res
+com.app.photoapp-lifecycle-livedata-core-2.7.0-12 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\0e35c3fb7988d13588ea137c7048cfcc\transformed\lifecycle-livedata-core-2.7.0\res
+com.app.photoapp-appcompat-1.6.1-13 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\1926d536a0bd03b757a8b36878e26eea\transformed\appcompat-1.6.1\res
+com.app.photoapp-recyclerview-1.3.2-14 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\1afd3cd9b5b8868e9722057b0f10eda3\transformed\recyclerview-1.3.2\res
+com.app.photoapp-lifecycle-livedata-2.7.0-15 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\1d1711a58f3d23cdca1529eff08b30d8\transformed\lifecycle-livedata-2.7.0\res
+com.app.photoapp-jetified-activity-ktx-1.8.2-16 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\22e1b72098ae666d0eb77972522681b4\transformed\jetified-activity-ktx-1.8.2\res
+com.app.photoapp-constraintlayout-2.1.4-17 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\25db12c48ef92eb94dd5711ab09311c4\transformed\constraintlayout-2.1.4\res
+com.app.photoapp-navigation-ui-2.7.6-18 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\27863bc79ff5a77a0475f185923c895d\transformed\navigation-ui-2.7.6\res
+com.app.photoapp-jetified-lifecycle-livedata-core-ktx-2.7.0-19 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\28699c666a5cb25c63a6812970a84e33\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.app.photoapp-fragment-1.6.2-20 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\33b6db20a01e0b84b77354bf6f718b63\transformed\fragment-1.6.2\res
+com.app.photoapp-jetified-profileinstaller-1.3.0-21 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\3d8ba2cccab21b604646e70d4cd0b3c8\transformed\jetified-profileinstaller-1.3.0\res
+com.app.photoapp-jetified-ucrop-2.2.8-22 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\4353964a4b76bb8dd9e159c433717737\transformed\jetified-ucrop-2.2.8\res
+com.app.photoapp-slidingpanelayout-1.2.0-23 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\44436a023531f7de4c31cdbf4fb523db\transformed\slidingpanelayout-1.2.0\res
+com.app.photoapp-jetified-lifecycle-viewmodel-savedstate-2.7.0-24 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\4b48eb5a4ac12073ab0ad6b7dd5d9bc0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.app.photoapp-jetified-appcompat-resources-1.6.1-25 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\4f6c014faca8da2c77d3ad6dbacac8e2\transformed\jetified-appcompat-resources-1.6.1\res
+com.app.photoapp-lifecycle-viewmodel-2.7.0-26 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\5ad67cf089da18accea95afd5f7c4ec3\transformed\lifecycle-viewmodel-2.7.0\res
+com.app.photoapp-sqlite-framework-2.4.0-27 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\64bba1fa06f705ca7f948ff5fb4cb11e\transformed\sqlite-framework-2.4.0\res
+com.app.photoapp-coordinatorlayout-1.1.0-28 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\6be5b31f5aade58e8fd2bf5e182b0ee8\transformed\coordinatorlayout-1.1.0\res
+com.app.photoapp-jetified-savedstate-ktx-1.2.1-29 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\6c2d04283b832aefab812cb8f2aaf1d7\transformed\jetified-savedstate-ktx-1.2.1\res
+com.app.photoapp-sqlite-2.4.0-30 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\81581ed64a94eafeb4a94ebf9d3215a4\transformed\sqlite-2.4.0\res
+com.app.photoapp-cardview-1.0.0-31 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\850506c0e441bb5d043bb4137ff184d7\transformed\cardview-1.0.0\res
+com.app.photoapp-jetified-lifecycle-viewmodel-ktx-2.7.0-32 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\85c63cb6b8423305fc8da527d88b79bb\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.app.photoapp-jetified-window-1.0.0-33 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\890981fd4287b2cefbbb7b80d88488ce\transformed\jetified-window-1.0.0\res
+com.app.photoapp-jetified-lifecycle-runtime-ktx-2.7.0-34 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\8aa15e39623685e9ee66ce7aeac06180\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.app.photoapp-jetified-startup-runtime-1.1.1-35 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\8be6655eecdedad8449ac823f2348989\transformed\jetified-startup-runtime-1.1.1\res
+com.app.photoapp-jetified-lifecycle-process-2.7.0-36 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\8c0e0291d594f9878b0eb361453dc6ca\transformed\jetified-lifecycle-process-2.7.0\res
+com.app.photoapp-jetified-glide-4.16.0-37 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\8dc81b7bf370a21bb77f819ec4d12d8d\transformed\jetified-glide-4.16.0\res
+com.app.photoapp-jetified-fragment-ktx-1.6.2-38 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\8fd843264ddeaaf3d5057c83ca600fd0\transformed\jetified-fragment-ktx-1.6.2\res
+com.app.photoapp-jetified-annotation-experimental-1.3.0-39 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\92758295ef38d53abe2625c0c65eeaff\transformed\jetified-annotation-experimental-1.3.0\res
+com.app.photoapp-lifecycle-runtime-2.7.0-40 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\b0718c7ffcb424cd5408fab215a8ef12\transformed\lifecycle-runtime-2.7.0\res
+com.app.photoapp-jetified-savedstate-1.2.1-41 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\c13bd60d9c44976e116ae36b9b2cc8a6\transformed\jetified-savedstate-1.2.1\res
+com.app.photoapp-material-1.11.0-42 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\c5c07204c2ff634f43af0fc5f36f0586\transformed\material-1.11.0\res
+com.app.photoapp-navigation-common-2.7.6-43 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\d0bd587bab5179cc566979887cbf1f77\transformed\navigation-common-2.7.6\res
+com.app.photoapp-room-runtime-2.6.1-44 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\d1b742a8b1bdddf6673a25217f142773\transformed\room-runtime-2.6.1\res
+com.app.photoapp-transition-1.4.1-45 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\d2318e0f0430ad7b5d844a99434d39da\transformed\transition-1.4.1\res
+com.app.photoapp-jetified-play-services-base-18.0.1-46 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\d93212745374b520776f133e826059ac\transformed\jetified-play-services-base-18.0.1\res
+com.app.photoapp-navigation-fragment-2.7.6-47 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\dddd47399f3f23765691ce646a78dd1d\transformed\navigation-fragment-2.7.6\res
+com.app.photoapp-jetified-emoji2-1.2.0-48 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\e133da6b3bcdda27766e90d24340514e\transformed\jetified-emoji2-1.2.0\res
+com.app.photoapp-core-1.9.0-49 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\e255476a4c42dff7e48fd3b51ad4a402\transformed\core-1.9.0\res
+com.app.photoapp-jetified-emoji2-views-helper-1.2.0-50 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\e45656f57778a20b0b1eb1b3347db605\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.app.photoapp-jetified-play-services-basement-18.0.0-51 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\e5d9497f8c5c66ccc7e5a62f9a5d6033\transformed\jetified-play-services-basement-18.0.0\res
+com.app.photoapp-jetified-core-ktx-1.9.0-52 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\f8f9dee2829472d2795d474f841b8983\transformed\jetified-core-ktx-1.9.0\res
+com.app.photoapp-jetified-viewpager2-1.1.0-beta02-53 C:\Users\Chandrabose P\.gradle\caches\8.10.2\transforms\ffaa4c27158aa769961f02d54c2c59e1\transformed\jetified-viewpager2-1.1.0-beta02\res

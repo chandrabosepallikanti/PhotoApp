@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_creations">Creations</string>
+    <string name="loading">Loading...</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="no_favourites">No Favourites Found</string>
+    <string name="no_creations">No Creations Found</string>
+    <string name="rate_app">Rate App</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="badge_new">NEW</string>
+    <string name="badge_free">FREE</string>
+</resources>
