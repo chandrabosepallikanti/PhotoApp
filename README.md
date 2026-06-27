@@ -44,7 +44,7 @@ The application follows a clean MVVM architecture with proper separation of conc
 Clone the repository and open the project in Android Studio.
 
 ```bash
-git clone https://github.com/yourusername/PhotoApp.git
+git clone https://github.com/chandrabosepallikanti/PhotoApp.git
 ```
 
 ## Author
